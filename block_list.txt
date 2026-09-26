@@ -3,4 +3,8 @@
 @@||*.tiktok.com^
 @@||*.tiktokcdn.com^
 @@||*.byteoversea.com^
-@@||*.ibytedtos.com
+@@||*.ibytedtos.com ^
+@@||t.tiktok.com^
+@@||webcast.tiktok.com^
+@@||im-ws-sg.tiktok.com^
+@@||mon.tiktokv.com
