@@ -1,4 +1,4 @@
- ! ===== TikTok =====
+! ===== TikTok =====
 ||tiktok.com^
 ||tiktokcdn.com^
 ||tiktokv.com^
@@ -18,41 +18,28 @@
 ||ibyteimg.com^
 ||byteimg.com^
 ||bytecdn.cn^
-||bytedance.com^
 ||bytedanceapi.com^
 ||bytedns.net^
 ||bytetcdn.com^
-||bytewlb.akadns.net^
 
-! ===== TikTok / ByteDance SDK & API =====
+! ===== TikTok SDK / API =====
 ||isnssdk.com^
 ||sgsnssdk.com^
 ||muscdn.com^
-||musical.ly^
 ||amemv.com^
 ||snssdk.com^
 ||pstatp.com^
 ||ipstatp.com^
 
-! ===== CDN / infrastructure thường dùng =====
+! ===== TikTok CDN / infrastructure =====
 ||hypstarcdn.com^
 ||worldfcdn.com^
 ||toutiaocloud.com^
-||toutiao.com^
 ||bdurl.net^
 
-! ===== TikTok web aliases =====
+! ===== TikTok web / API =====
 ||m.tiktok.com^
 ||t.tiktok.com^
 ||vt.tiktok.com^
 ||webcast.tiktok.com^
 ||ads.tiktok.com^
-||business.tiktok.com^
-||developers.tiktok.com^
-||datahub.tiktok.com^
-||creatormarketplace.tiktok.com^
-
-! ===== Douyin / Musical.ly nếu muốn chặn luôn hệ sinh thái liên quan =====
-||douyin.com^
-||douyincdn.com^
-||douyinvideo.net^
