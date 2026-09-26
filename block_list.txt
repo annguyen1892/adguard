@@ -1,10 +1,58 @@
-@@||tiktok.com^
-@@||www.tiktok.com^
-@@||*.tiktok.com^
-@@||*.tiktokcdn.com^
-@@||*.byteoversea.com^
-@@||*.ibytedtos.com ^
-@@||t.tiktok.com^
-@@||webcast.tiktok.com^
-@@||im-ws-sg.tiktok.com^
-@@||mon.tiktokv.com
+ ! ===== TikTok =====
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tiktokcdn-us.com^
+||tiktokcdn-in.com^
+||tiktokcdn-eu.com^
+||tiktokd.org^
+||ttlivecdn.com^
+||tlivecdn.com^
+||ttoversea.net^
+||ttoverseaus.net^
+
+! ===== ByteDance / TikTok backend =====
+||byteoversea.com^
+||byteoversea.net^
+||ibytedtos.com^
+||ibyteimg.com^
+||byteimg.com^
+||bytecdn.cn^
+||bytedance.com^
+||bytedanceapi.com^
+||bytedns.net^
+||bytetcdn.com^
+||bytewlb.akadns.net^
+
+! ===== TikTok / ByteDance SDK & API =====
+||isnssdk.com^
+||sgsnssdk.com^
+||muscdn.com^
+||musical.ly^
+||amemv.com^
+||snssdk.com^
+||pstatp.com^
+||ipstatp.com^
+
+! ===== CDN / infrastructure thường dùng =====
+||hypstarcdn.com^
+||worldfcdn.com^
+||toutiaocloud.com^
+||toutiao.com^
+||bdurl.net^
+
+! ===== TikTok web aliases =====
+||m.tiktok.com^
+||t.tiktok.com^
+||vt.tiktok.com^
+||webcast.tiktok.com^
+||ads.tiktok.com^
+||business.tiktok.com^
+||developers.tiktok.com^
+||datahub.tiktok.com^
+||creatormarketplace.tiktok.com^
+
+! ===== Douyin / Musical.ly nếu muốn chặn luôn hệ sinh thái liên quan =====
+||douyin.com^
+||douyincdn.com^
+||douyinvideo.net^
