@@ -1,5 +1,6 @@
 @@||tiktok.com^
 @@||www.tiktok.com^
-@@||*.tiktok.com*.tiktokcdn.com^
-@@||*.byteoversea.com
+@@||*.tiktok.com^
+@@||*.tiktokcdn.com^
+@@||*.byteoversea.com^
 @@||*.ibytedtos.com
