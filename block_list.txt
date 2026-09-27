@@ -1,7 +1,7 @@
-! ===== TikTok =====
+! ===== TikTok domains =====
 ||tiktok.com^
-||tiktokcdn.com^
 ||tiktokv.com^
+||tiktokcdn.com^
 ||tiktokcdn-us.com^
 ||tiktokcdn-in.com^
 ||tiktokcdn-eu.com^
@@ -10,6 +10,26 @@
 ||tlivecdn.com^
 ||ttoversea.net^
 ||ttoverseaus.net^
+
+! ===== TikTok / ByteDance API =====
+||byteoversea.com^
+||byteoversea.net^
+||ibytedtos.com^
+||ibyteimg.com^
+||byteimg.com^
+||pstatp.com^
+||ipstatp.com^
+||snssdk.com^
+||isnssdk.com^
+||sgsnssdk.com^
+||muscdn.com^
+||amemv.com^
+
+! ===== TikTok CDN =====
+||hypstarcdn.com^
+||worldfcdn.com^
+||toutiaocloud.com^
+||bdurl.net^
 
 ! ===== ByteDance / TikTok backend =====
 ||byteoversea.com^
